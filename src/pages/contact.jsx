@@ -1,5 +1,4 @@
-import React from 'react';
-import { Link } from "react-router-dom";
+import React from 'react'
 import { GithubLogo, InstagramLogo, LinkedinLogo, Phone, WhatsappLogo } from 'phosphor-react';
 
 export const Contact = () => {

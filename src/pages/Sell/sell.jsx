@@ -57,15 +57,15 @@ export const Sell = () => {
         <div class="footer-column">
             <h3>Useful Links</h3>
             <ul>
-                <li>FAQs</li>
-                <li>About Us</li>
-                <li>Contact Us</li>
+            <li>FAQs</li>
+            <li>About Us</li>
+            <li>Contact Us</li>
             </ul>
         </div>
         <div class="footer-column">
             <h3>Policies</h3>
             <ul>
-                <li>Terms & Conditions</li>
+            <li>Terms & Conditions</li>
                 <li>Exchange Policy</li>
                 <li>Shipping Policy</li>
             </ul>
