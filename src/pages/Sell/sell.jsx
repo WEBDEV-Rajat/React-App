@@ -57,17 +57,17 @@ export const Sell = () => {
         <div class="footer-column">
             <h3>Useful Links</h3>
             <ul>
-                <li><a href="#">FAQs</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li>FAQs</li>
+                <li>About Us</li>
+                <li>Contact Us</li>
             </ul>
         </div>
         <div class="footer-column">
             <h3>Policies</h3>
             <ul>
-                <li><a href="#">Terms & Conditions</a></li>
-                <li><a href="#">Exchange Policy</a></li>
-                <li><a href="#">Shipping Policy</a></li>
+                <li>Terms & Conditions</li>
+                <li>Exchange Policy</li>
+                <li>Shipping Policy</li>
             </ul>
         </div>
     </div>
