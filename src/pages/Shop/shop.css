@@ -4,7 +4,7 @@
     font-size: 40px;
 }
 .products{
-    width : 100%;
+    width : 90%;
     height : auto;
     display : grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -13,7 +13,7 @@
 
 .product{
     border-radius : 15px ;
-    width: 300px;
+    width: 225px;
     height: 350px;
     margin: 100px;
     display: flex;
@@ -38,6 +38,7 @@
 .addToCartBtn {
     background-color: transparent;
     border: 2px solid rgb(19,19,19);
+    color : black;
     min-width: 100px;
     padding : 5px 10px 5px 10px;
     border-radius: 15px;
